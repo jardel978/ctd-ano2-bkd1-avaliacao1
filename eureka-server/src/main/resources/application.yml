@@ -1,0 +1,22 @@
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+spring:
+  application:
+    name: eureka-service
+server:
+  port: ${PORT_EUREKA_SERVER:8761}
+management:
+  info:
+    env:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+info:
+  name: Servico de registro e descobrimento dos demais servicos presentes no ecossistema da aplicacao
+  author: Jardel S. Oliveira
+  mail: jardeloliver197@gmail.com
+  severity: Medio

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-actuator-autoconfigure:2.7.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.1-SNAPSHOT/spring-boot-actuator-autoconfigure-2.7.1-20220608.113238-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.1-SNAPSHOT/spring-boot-actuator-autoconfigure-2.7.1-20220608.113238-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.7.1-SNAPSHOT/spring-boot-actuator-autoconfigure-2.7.1-20220608.113238-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
